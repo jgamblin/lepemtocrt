@@ -1,2 +1,2 @@
 # lepemtocrt
-LetsEncrypt.org PEM to CRT Conversion Script
+A quick script to convert LetsEncrypt.org PEM files to CRT files for easier use. 
